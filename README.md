@@ -18,6 +18,7 @@ Program se spouští z příkazového řádku a k jeho spuštění jsou zapotře
 2. argument - název výstupního .csv souboru ve formátu "vysledky_<okres>.csv"
 >
 Ukázka spuštění programu pro okres Pardubice:
+1. argument:
 
 Ukázka běhu programu:
 Spuštění programu a extrahování výsledků parlamentních voleb pro okres Pardubice: 
