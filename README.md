@@ -8,7 +8,7 @@ Program extrahuje výsledky voleb do parlamentu České republiky z roku 2017 do
 Pro správný běh programu election_scraper.py je třeba před jeho spuštěním nainstalovat potřebné knihovny (viz requirements.txt).  
 Doporučujeme knihovny instalovat do nového virtuálního prostředí pro tento program.  
 >
-Do příkazového řádku stačí zadat následující příkazy:
+_Do příkazového řádku stačí zadat následující příkazy:_
 >`$ pip3 --version`  
 `$ pip3 install -r requirements.txt`
 
