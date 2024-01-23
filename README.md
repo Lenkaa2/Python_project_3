@@ -29,4 +29,6 @@ Kontroluji url adresu a název souboru
 Stahuji data z: https://volby.cz/pls/ps2017nss/ps32?xjazyk=CZ&xkraj=9&xnumnuts=5302  
 Staženo: 5,6%
 
+Úspěšně staženo a uloženo v: 
+
 
