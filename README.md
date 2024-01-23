@@ -10,7 +10,7 @@ Pro správný běh programu election_scraper.py je třeba před jeho spuštění
 Doporučujeme knihovny instalovat do nového virtuálního prostředí pro tento program.  
 >
 Do příkazového řádku zadat:
-`$ pip3 --version`  
+>`$ pip3 --version`  
 `$ pip3 install -r requirements.txt`
 
 Program se spouští z příkazového řádku a k jeho spuštění je zapotřebí zadat dva argumenty a to v následujícím pořadí: 
