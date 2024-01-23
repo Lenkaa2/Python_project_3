@@ -25,5 +25,7 @@ _Příkazový řádek:_
 >`$ python election_scraper.py "https://volby.cz/pls/ps2017nss/ps32?xjazyk=CZ&xkraj=9&xnumnuts=5302" "vysledky_Pardubice.csv"`
 
 ## Ukázka běhu programu:  
-Kontroluji url adresu a název souboru
+Kontroluji url adresu a název souboru  
+Stahuji data z: https://volby.cz/pls/ps2017nss/ps32?xjazyk=CZ&xkraj=9&xnumnuts=5302
+
 
