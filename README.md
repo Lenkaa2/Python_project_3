@@ -14,7 +14,7 @@ _Do příkazového řádku stačí zadat následující příkazy:_
 
 ## Spuštění programu
 Program se spouští z příkazového řádku a k jeho spuštění jsou zapotřebí dva argumenty:  
-1. argument - URL adresa okresu, pro který chcete výsledky voleb extrahovat  uvozovkách
+1. argument - URL adresa okresu, pro který chcete výsledky voleb extrahovat  uvozovkách (z odkazu https://volby.cz/pls/ps2017nss/ps3?xjazyk=CZ, sloupec výběr obce)
 2. argument - název výstupního .csv souboru ve formátu "vysledky_<okres>.csv"
 >
 __Ukázka spuštění programu pro okres Pardubice:__
