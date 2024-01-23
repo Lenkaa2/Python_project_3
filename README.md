@@ -21,7 +21,7 @@ __Ukázka spuštění programu pro okres Pardubice:__
 1. argument: "https://volby.cz/pls/ps2017nss/ps32?xjazyk=CZ&xkraj=9&xnumnuts=5302"
 2. argument: "vysledky_Pardubice.csv"
 >
-Příkazový řádek:
+_Příkazový řádek:_
 >`$ python election_scraper.py "https://volby.cz/pls/ps2017nss/ps32?xjazyk=CZ&xkraj=9&xnumnuts=5302" "vysledky_Pardubice.csv"`
 
 Ukázka běhu programu:
