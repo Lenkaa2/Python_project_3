@@ -18,7 +18,8 @@ Program se spouští z příkazového řádku a k jeho spuštění jsou zapotře
 2. argument - název výstupního .csv souboru ve formátu "vysledky_<okres>.csv"
 >
 Ukázka spuštění programu pro okres Pardubice:
-1. argument:
+1. argument: "https://volby.cz/pls/ps2017nss/ps32?xjazyk=CZ&xkraj=9&xnumnuts=5302"
+2. argument: "vysledky_Pardubice.csv"
 
 Ukázka běhu programu:
 Spuštění programu a extrahování výsledků parlamentních voleb pro okres Pardubice: 
