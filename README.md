@@ -8,8 +8,8 @@ Odkaz: https://volby.cz/pls/ps2017nss/ps3?xjazyk=CZ (sloupec Výběr obce).
 ## Instalace knihoven
 Pro správný běh programu election_scraper.py je třeba před jeho spuštěním nainstalovat potřebné knihovny (viz requirements.txt).  
 Doporučujeme knihovny instalovat do nového virtuálního prostředí pro tento program.  
-'$ pip3 --version'
-'$ pip3 install -r requirements.txt'
+`$ pip3 --version`  
+`$ pip3 install -r requirements.txt`
 
 Program se spouští z příkazového řádku a k jeho spuštění je zapotřebí zadat dva argumenty a to v následujícím pořadí: 
 "odkaz okresu, pro který chcete výsledky voleb extrahovat" "název výstupního .csv souboru"
