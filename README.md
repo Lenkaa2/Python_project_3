@@ -2,7 +2,8 @@
 Engeto Online Python Akademie - Project 3
 
 ## Election_scraper.py 
-extrahuje výsledky voleb do parlamentu České republiky z roku 2017 pro vybraný územní celek z odkazu (https://volby.cz/pls/ps2017nss/ps3?xjazyk=CZ, sloupec Výběr obce) a uloží jej do .csv souboru, jehož název si uživatel sám zvolí.
+Program extrahuje výsledky voleb do parlamentu České republiky z roku 2017 pro vybraný okres a uloží je do .csv souboru. 
+Odkaz: https://volby.cz/pls/ps2017nss/ps3?xjazyk=CZ (sloupec Výběr obce).
 
 Knihovny použité v programu a jejich verze jsou uvedeny v souboru requirements.txt
 
