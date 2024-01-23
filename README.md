@@ -40,7 +40,7 @@ ID,Obec,Registrovaní voliči,Vydané obálky,Platné hlasy,Občanská demokrati
 574805,Břehy,833,576,573,65,1,0,43,0,30,66,9,4,0,0,0,58,0,18,198,0,2,17,4,0,2,53,3
 574813,Bukovina nad Labem,187,139,138,23,1,0,6,0,6,15,0,1,1,0,0,9,0,5,49,0,0,16,0,0,0,6,0
 574821,Bukovina u Přelouče,69,51,50,4,0,0,6,0,4,3,1,3,0,0,0,0,0,0,17,0,0,1,0,0,0,10,1
-![image](https://github.com/Lenkaa2/Python_project_3/assets/131295878/0bb6106b-d4ff-45f8-928e-326fa2a99ed3)
+
 
 
 
