@@ -26,6 +26,7 @@ _Příkazový řádek:_
 
 ## Ukázka běhu programu:  
 Kontroluji url adresu a název souboru  
-Stahuji data z: https://volby.cz/pls/ps2017nss/ps32?xjazyk=CZ&xkraj=9&xnumnuts=5302
+Stahuji data z: https://volby.cz/pls/ps2017nss/ps32?xjazyk=CZ&xkraj=9&xnumnuts=5302  
+Staženo: 5,6%
 
 
