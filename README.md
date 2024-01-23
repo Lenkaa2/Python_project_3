@@ -24,13 +24,6 @@ __Ukázka spuštění programu pro okres Pardubice:__
 _Příkazový řádek:_
 >`$ python election_scraper.py "https://volby.cz/pls/ps2017nss/ps32?xjazyk=CZ&xkraj=9&xnumnuts=5302" "vysledky_Pardubice.csv"`
 
-Ukázka běhu programu:
-Spuštění programu a extrahování výsledků parlamentních voleb pro okres Pardubice: 
-python election_scraper.py "https://volby.cz/pls/ps2017nss/ps32?xjazyk=CZ&xkraj=9&xnumnuts=5302" "pardubice_volby17.csv"
+## Ukázka běhu programu:  
+Stahuji data
 
-Stahuji data z: https://volby.cz/pls/ps2017nss/ps311?xjazyk=CZ&xkraj=9&xobec=576026&xvyber=5302
-Stahuji data z: https://volby.cz/pls/ps2017nss/ps311?xjazyk=CZ&xkraj=9&xobec=576042&xvyber=5302
-Stahuji data z: https://volby.cz/pls/ps2017nss/ps311?xjazyk=CZ&xkraj=9&xobec=576051&xvyber=5302
-
-UKLÁDÁM DATA DO SOUBORU: parbubice_volby17.csv
-UKONČUJI: election_scraper.py
