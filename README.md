@@ -2,8 +2,7 @@
 Engeto Online Python Akademie - Project 3
 
 ## Election_scraper.py 
-Program extrahuje výsledky voleb do parlamentu České republiky z roku 2017 pro vybraný okres a uloží je do .csv souboru.  
-Odkaz: https://volby.cz/pls/ps2017nss/ps3?xjazyk=CZ (sloupec Výběr obce).
+Program extrahuje výsledky voleb do parlamentu České republiky z roku 2017 do .csv souboru.
 
 ## Instalace knihoven
 Pro správný běh programu election_scraper.py je třeba před jeho spuštěním nainstalovat potřebné knihovny (viz requirements.txt).  
@@ -14,10 +13,11 @@ Do příkazového řádku stačí zadat následující příkazy:
 `$ pip3 install -r requirements.txt`
 
 ## Spuštění programu
-Program se spouští z příkazového řádku.  
-K jeho spuštění jsou zapotřebí dva argumenty:  
-1. "odkaz okresu, pro který chcete výsledky voleb extrahovat"
-2. "vysledky_<okres>.csv"
+Program se spouští z příkazového řádku a k jeho spuštění jsou zapotřebí dva argumenty:  
+1. argument - URL adresa okresu, pro který chcete výsledky voleb extrahovat  uvozovkách
+2. argument - název výstupního .csv souboru ve formátu "vysledky_<okres>.csv"
+>
+Ukázka spuštění programu pro okres Pardubice:
 
 Ukázka běhu programu:
 Spuštění programu a extrahování výsledků parlamentních voleb pro okres Pardubice: 
