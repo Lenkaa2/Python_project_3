@@ -14,8 +14,10 @@ Do příkazového řádku stačí zadat následující příkazy:
 `$ pip3 install -r requirements.txt`
 
 ## Spuštění programu
-Program se spouští z příkazového řádku a k jeho spuštění je zapotřebí zadat dva argumenty a to v následujícím pořadí: 
-"odkaz okresu, pro který chcete výsledky voleb extrahovat" "název výstupního .csv souboru"
+Program se spouští z příkazového řádku.  
+K jeho spuštění jsou zapotřebí dva argumenty:  
+1. "odkaz okresu, pro který chcete výsledky voleb extrahovat"
+2. "vysledky_<okres>.csv"
 
 Ukázka běhu programu:
 Spuštění programu a extrahování výsledků parlamentních voleb pro okres Pardubice: 
