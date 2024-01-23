@@ -140,4 +140,4 @@ if __name__ == '__main__':
     print(f'Stahuji data z: {sys.argv[1]}')
     stahovani_a_ukladani()
     print(f'Úspěšně staženo a uloženo v "{csv_nazev()}"\n'
-        'Ukončuji Election_scraper.py')
+        'Ukončuji election_scraper.py')
