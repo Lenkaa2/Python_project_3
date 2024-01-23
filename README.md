@@ -5,6 +5,7 @@ Engeto Online Python Akademie - Project 3
 Program extrahuje výsledky voleb do parlamentu České republiky z roku 2017 pro vybraný okres a uloží je do .csv souboru.  
 Odkaz: https://volby.cz/pls/ps2017nss/ps3?xjazyk=CZ (sloupec Výběr obce).
 
+## Instalace knihoven
 Knihovny použité v programu a jejich verze jsou uvedeny v souboru requirements.txt
 
 Program se spouští z příkazového řádku a k jeho spuštění je zapotřebí zadat dva argumenty a to v následujícím pořadí: 
